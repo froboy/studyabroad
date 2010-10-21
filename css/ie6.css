@@ -1,0 +1,33 @@
+/* IE 6 CSS
+-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------- */
+body #content {margin-top:21px;}
+body div#headerImg {display:inline;}
+body div#headerUofC {display:inline;}
+body ul#mainNav li ul {clear:left; z-index:2; margin-top:-1px;}
+body div#wordmark {margin-left:2px;}
+body div#footerNav {margin-right:40px;}
+body div#feature {background-image:none;}
+body .events {margin-top:-8px; margin-left:0;}
+body .eventsTopGradient {margin:0px; background:none; width:10px;} 
+body li.applyNav a {margin-right:10px; background-image:url(../img/applyNavIE6.png);}
+body li.admissionsNav a {margin-right:10px; background-image:url(../img/admissionsNavIE6.png);}
+body li.familiesNav a {margin-right:10px; background-image:url(../img/familiesNavIE6.png);}
+body li.currentNav a {margin-right:10px; background-image:url(../img/currentNavIE6.png);}
+body li.newNav a {margin-right:10px; background-image:url(../img/newNavIE6.png);}
+body li.facultyNav a {margin-right:10px; background-image:url(../img/facultyNavIE6.png);}
+body .profileLink span.profileNameLink {overflow:hidden;}
+body div.box1Right img {margin:0;}
+body .indexBox2 div.box2Right {width:230px;}
+body .box2Right a {margin-bottom:15px; height:31px;}
+body .box2Right a.chiStudies {height:31px;}
+body .box2Right a.studyAbroad {height:31px;}
+body .box2Right a.caps {height:31px;}
+body #contentPage {display:inline;}
+body #leftSidebarTopGradient {background-image:none;}
+body #leftSidebar {margin:2px 0 0 0;}
+body #leftSidebar ul.menu li  {font-size:11px; list-style-image:none;}
+body #rightSidebarTopGradient {background: none; margin-top:2px;}
+body #rightSidebar {margin-top:2px;}
+body #uniquelyChicagoContent div.left {display:none;}
+body #uniquelyChicagoContent div.right {display:none;}

@@ -1,0 +1,16 @@
+h3 {font-size:1.4em; color:#447f9b; font-weight:bold; margin:10px 0 0 0; padding-bottom:0px; clear:both;}
+h4 {font-size:1.2em; color:#C97A3F; font-weight:bold; margin:10px 0 0 0; padding-bottom:0px;}
+
+li {line-height:1.2em; padding:6px 0 0 0;}
+li p {margin:0; padding:0;}
+
+.imglt {float:left; margin:8px 6px 16px 0; border-bottom:1px solid #d7d7cf;}
+.imglt p {font-size:.8em; line-height:1.65em; margin:8px 0 9px 0; color:#65655e;	width:152px; height:9em; padding:0 4px;}
+.imglt img {margin:0px;}
+.imglt p a {font-size:1.2em;}
+.imgrt {float: right;margin: 0 0 16px 16px;border-bottom: 1px solid #d7d7cf;}
+.caption {font-size:.8em; text-align:right; font-style:italic; width:auto; }
+
+
+.expand_heading {border-bottom: dashed #333333 1px!important;}
+.toggle_container {background-color: #cccccc;}

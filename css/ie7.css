@@ -1,0 +1,26 @@
+/* IE 7 CSS
+-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------- */
+body #content {margin-top:21px;}
+body ul#mainNav li ul {margin-top:-106px; z-index:2; position:relative;}
+/*
+body .eventsTopGradient {position:relative; margin-top:-4px;}
+*/
+body div.box1Right img {margin:11px 0 0 12px;}
+body #leftSidebarTopGradient {position:relative; margin:1px 0 0 0;}
+body #leftSidebar {border-top:none;}
+body #leftSidebar ul.menu li {font-size:11px; list-style-image:none;}
+body #rightSidebar {margin-top:2px;}
+
+body #uniquelyChicagoContent div.left {position:absolute; z-index:-1; top:4px; left:-30px; width:120px;  height:487px; filter:alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity: 0.5; opacity: 0.5; color:#f7f3ef;}
+body #uniquelyChicagoContent div.right {position:absolute; z-index:-1;  left:875px; top:4px;  width:120px;  height:487px; filter:alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity: 0.5; opacity: 0.5; color:#f7f3ef;}
+
+body #uniquelyChicagoContent .jcarousel-skin-tango .jcarousel-next-horizontal {position:relative; z-index:100000; top: 225px; right:-885px;}
+body #uniquelyChicagoContent .jcarousel-skin-tango .jcarousel-prev-horizontal {z-index:100000; top: 225px; left:10px;}
+
+body.front #rightSidebarTopGradient {position: relative; /* margin:-418px 0 0 15px; */}
+#gmap-nodemap-gmap0 {margin-left:-65px;}
+body .eventsTopGradient { position:relative; margin-top:0;}
+body.front .events img {margin-top: -26px;}
+.feattext {background:#f4f3ec;filter:alpha(opacity=80);}
+.indexLeft {margin-top:0;}

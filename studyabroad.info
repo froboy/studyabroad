@@ -1,0 +1,39 @@
+name = studyabroad 
+description = Univ. of Chicago Study Abroad 2010 theme for Drupal 6.
+version = 1.0
+core = 6.x
+base theme = alice
+engine = phptemplate
+
+; Stylesheets
+stylesheets[all][] = css/sa-screen.css
+
+; Scripts
+scripts[] = js/jquery.qtip-1.0.0-rc3.min.js
+scripts[] = js/jquery.showhide.js
+scripts[] = js/jquery.cycle.all.min.js
+
+
+; Regions
+regions[mainnav] = main navigation
+regions[home_map] = homepage map
+regions[feature] = feature
+regions[events] = events
+regions[collegenow] = college now
+regions[content] = content
+regions[leftsidebar] = left sidebar
+regions[rightsidebar] = right sidebar
+regions[testimonial] = testimonial
+regions[footer] = footer
+
+; Features
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = mission
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = search
+features[] = favicon
+features[] = primary_links
+features[] = secondary_links
